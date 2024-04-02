@@ -27,31 +27,14 @@
 
 > https://fonts.google.com/?query=outfit
 
-### Importing package
+### Kinde Authentication
 
-### Installing Google Font
+> https://kinde.com/docs/developer-tools/nextjs-sdk/
 
-```sh
-flutter pub add google_fonts
+```
+npm i @kinde-oss/kinde-auth-nextjs
 ```
 
-### STRAPI
+### Next MIDDLEWARE (Protecting Routes)
 
-`1.` pubspec.yaml file dotor image-uudee import zaaj ogno.
-
-```yaml
-assets:
-  - assets/images/dice-1.png
-  - assets/images/dice-2.png
-  - assets/images/dice-3.png
-  - assets/images/dice-4.png
-  - assets/images/dice-5.png
-  - assets/images/dice-6.png
-```
-
-### Creating custom Widget
-
-> See details: [Tab screen](meals_app/lib/screens/tabs.dart)
-
-`1`. /meals_app/lib/main.dart
-`2`. /meals_app/lib/screens/tabs.dart
+> https://kinde.com/docs/developer-tools/nextjs-sdk/#protecting-routes
